@@ -1,0 +1,62 @@
+.bar{
+    background-color: #e2dfdf;
+    width: 1500px;
+    height: 15px;
+    padding: 1px 1px 1px 1px;
+}
+
+.Player1 .inner {
+    background-color: #002aff;
+    width: 5%;
+    height: inherit;
+}
+
+.img{
+        height: 20px;
+        width: 20px;
+        position: absolute;
+        left: 63px
+}
+.P1buttons button{
+    margin-right: 10px;
+}
+
+.Player2 .inner{
+    background-color: #ff0026;
+    width: 5%;
+    height: inherit;
+
+}
+.P2buttons button{
+    margin-right: 10px;
+}
+
+.Player3 .inner{
+    background-color: #ffd500;
+    width: 5%;
+    height: inherit;
+
+}
+.P3buttons button{
+    margin-right: 10px;
+}
+
+.Player4 .inner{
+    background-color: #73ff00;
+    width: 5%;
+    height: inherit;
+
+}
+.P4buttons button{
+    margin-right: 10px;
+}
+
+.Player5 .inner{
+    background-color: #751da9;
+    width: 5%;
+    height: inherit;
+
+}
+.P5buttons button{
+    margin-right: 10px;
+}
